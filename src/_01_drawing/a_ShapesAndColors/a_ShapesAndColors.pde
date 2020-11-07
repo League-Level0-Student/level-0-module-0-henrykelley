@@ -5,7 +5,7 @@
 
 //    The size command looks like this:      
   size (100,200);
-//    Try putting different numbers in the parentheses.
+//    Try putting different numbers in the paentheses.
 //    See if you can figure out which number is the width, and which is the height
 
 
