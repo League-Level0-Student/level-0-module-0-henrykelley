@@ -17,10 +17,13 @@ ellipse(250,250, 100,100);
 //    Remember to use the   fill()  command to set colors.
 
 if (mousePressed) {
+  fill(#1C31AF);
  
    //  put one color here 
+   
   
 } else {
+  fill(#FF030B);
   
    // put a different color here
   
